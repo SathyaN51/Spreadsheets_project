@@ -57,7 +57,7 @@ An interactive Excel dashboard was created to monitor key performance indicators
 ### Dashboard Preview
 
 
-
+![AstroSage Dashboard](ASTROSAGE_DASHBOARD.png)
 
 
 ---
