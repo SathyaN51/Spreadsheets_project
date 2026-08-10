@@ -122,4 +122,4 @@ This project demonstrates practical experience in:
 
 Aspiring Data Analyst
 
-**Skills:**  Excel 
+**Skills:**  Excel | SQL | PowerBI
